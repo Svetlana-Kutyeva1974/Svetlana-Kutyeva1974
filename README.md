@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning for course web developer...
+🌱 I graduated from the web developer course...
 
 <!--
 **Svetlana-Kutyeva1974/Svetlana-Kutyeva1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
