@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 #### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
-### Я закончила курс веб-разработчик (2023 год).
+### Я закончила курс веб-разработчик (2023 год)
+### Мои проекты
 #### Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов».
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
+
+### Примеры заданий, выполненных в процессе обучения
+
+### Мои сертификаты
+####  https://github.com/Svetlana-Kutyeva1974/certifikates
+### Мои дипломы
+####  https://github.com/Svetlana-Kutyeva1974/diploms
