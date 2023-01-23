@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 #### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
-#### ----------------------------------------------------------------
+### ----------------------------------------------------------------
 
-### Я закончила курс веб-разработчик (2023 год)
+### Я закончила курс веб-разработки от  университета Нетология (2023 год)
 ### Стек: HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.
 ### Пользователь: 1С, Adobe: AdobeFotoshop,CorelDraw, AdobePageMaker
 ### Базовое образование: МАИ 1997г.(инженер-математик), МГУП им.И. Федорова 2015г.(журналист), профессиональная переподготовка, РУНО (бухгалтерия + 1С), 2017г.
