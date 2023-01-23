@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
 ### Примеры заданий, выполненных в процессе обучения
+### Laravel
+#### Создание и защита роутов, middleware, валидация форм, создание ресурсного контроллера
+#### [middleware](https://github.com/Svetlana-Kutyeva1974/home3_laravel_project.git)
+#### [роуты](https://github.com/Svetlana-Kutyeva1974/home2_laravel_project.git)
+#### [middleware, api, request](https://github.com/Svetlana-Kutyeva1974/home4_laravel_project.git)
+### React
+#### Меню
+#### https://github.com/Svetlana-Kutyeva1974/ra9.1.git
 
 ### Мои сертификаты
 ####  https://github.com/Svetlana-Kutyeva1974/certifikates
