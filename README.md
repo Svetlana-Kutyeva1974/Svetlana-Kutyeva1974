@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
 ### Я закончила курс веб-разработчик (2023 год)
+
 ### Мои проекты
+
 #### Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов».
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
-#### Дипломное задание по курсу javascript: Игра.
-#### 
+#### Дипломное задание по курсу javascript: Двумерная Retro Игра  в стиле фэнтези.
+#### https://github.com/Svetlana-Kutyeva1974/0-js-diplom.git
 
 #### Дипломное задание по курсу базовый javascript в браузере: разработка приложения для управления финансами.
 #### [Приложение для управления финансами](https://github.com/Svetlana-Kutyeva1974/bhj-diploma.git)
@@ -43,17 +45,23 @@ Here are some ideas to get you started:
 #### [Верстка по макету AdobeFotoshop](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
 
 ### Примеры заданий, выполненных в процессе обучения
+
 ###  LARAVEL
+
 #### Создание и защита роутов, middleware, валидация форм, создание ресурсного контроллера
 #### [middleware](https://github.com/Svetlana-Kutyeva1974/home3_laravel_project.git)
 #### [роуты](https://github.com/Svetlana-Kutyeva1974/home2_laravel_project.git)
 #### [middleware, api, request](https://github.com/Svetlana-Kutyeva1974/home4_laravel_project.git)
+
 ### REACT
+
 #### Меню
 #### https://github.com/Svetlana-Kutyeva1974/ra9.1.git
+
 ### JAVASCRIPT
 #### Браузерная игра на реакцию
 #### 
+
 ### HTML, CSS
 #### Примеры простой верстки
 #### https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm
@@ -61,5 +69,6 @@ Here are some ideas to get you started:
 
 ### Мои сертификаты
 ####  https://github.com/Svetlana-Kutyeva1974/certifikates
+
 ### Мои дипломы
 ####  https://github.com/Svetlana-Kutyeva1974/diploms
