@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My projects
+#### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
+#### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
+
+### Я закончила курс веб-разработчик (2023 год).
 #### Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов».
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
