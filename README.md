@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
-### _
+__
 
 ### Я закончила курс веб-разработки от  университета Нетология (2023 год)
 ### Стек: HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.
@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ### Мои проекты
 
-#### *_[*Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)_
+#### *_[Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)_
 
 #### *_[Дипломное задание по курсу javascript: Двумерная Retro Игра  в стиле фэнтези](https://github.com/Svetlana-Kutyeva1974/0-js-diplom.git)_
 
-#### *[Дипломное задание по курсу базовый javascript в браузере: разработка приложения для управления финансами. Приложение для управления финансами](https://github.com/Svetlana-Kutyeva1974/bhj-diploma.git)
+#### * [Дипломное задание по курсу базовый javascript в браузере: разработка приложения для управления финансами. Приложение для управления финансами](https://github.com/Svetlana-Kutyeva1974/bhj-diploma.git)
 
 #### *[Дипломное задание по курсу Основы javascript: доработка сайта-биржи криптовалют,страниц регистрации и личного кабинета пользователя](https://github.com/Svetlana-Kutyeva1974/bjs-diplom.git)
 
