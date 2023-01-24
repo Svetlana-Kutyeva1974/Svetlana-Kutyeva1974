@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I graduated from the web developer course...
+🌱 I graduated from the course "Web developer" from the University of Netology...
 
 <!--
 **Svetlana-Kutyeva1974/Svetlana-Kutyeva1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I graduated from the web developer course
 -->
-### My projects
-#### [Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets"](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
+### [Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets"](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
 
 ________________________________________________________________________
 
