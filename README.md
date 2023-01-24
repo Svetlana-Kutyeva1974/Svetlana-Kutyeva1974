@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ### Мои проекты
 
-#### [*Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
+#### +[*Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
 
-#### *[Дипломное задание по курсу javascript: Двумерная Retro Игра  в стиле фэнтези](https://github.com/Svetlana-Kutyeva1974/0-js-diplom.git)
+#### +[Дипломное задание по курсу javascript: Двумерная Retro Игра  в стиле фэнтези](https://github.com/Svetlana-Kutyeva1974/0-js-diplom.git)
 
 #### *[Дипломное задание по курсу базовый javascript в браузере: разработка приложения для управления финансами. Приложение для управления финансами](https://github.com/Svetlana-Kutyeva1974/bhj-diploma.git)
 
