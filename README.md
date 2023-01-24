@@ -1,5 +1,5 @@
-
-`### Hi there 👋                                                                   
+________________________________________________________________________
+### Hi there 👋                                                                   
 🌱 I graduated from the course "Web developer" from the University of Netology... 
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 I graduated from the web developer course
 -->
-### [Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets"](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git) `
+### [Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets"](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git) 
 
 ________________________________________________________________________
 
