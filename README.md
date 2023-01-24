@@ -16,19 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My projects
-#### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
-#### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
+#### [Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets"](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
 
 ________________________________________________________________________
 
 ### *Закончила курс веб-разработки от  университета Нетология (2023 год)*
+
 ### *Стек:* `HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.`
+
 ### *Пользователь:* `1С, Adobe: AdobeFotoshop,CorelDraw, AdobePageMaker`
+
 ### *Базовое образование:* `МАИ 1997г.(инженер-математик), МГУП им.И. Федорова 2015г.(журналист), профессиональная переподготовка, РУНО (бухгалтерия + 1С), 2017г.`
+
 ### *Опыт в разработке:* `с 2002 г. на HTML, CSS поддержка и контентное наполнение сайта, 2020-2023гг. на HTML, CSS, JS, REACT, PHP, LARAVEL, SQL выполнение заданий и дипломных проектов в Нетологии. `
+
 ### *Дополнительные навыки:* `полиграфическая + журналистская деятельность, ежемесячная верстка и печать бумажного многостраничного издания НКО Троицкий храм в AdobePageMaker с 2002 г. по настоящее время.`
 
-### Мои проекты
+### *Мои проекты*
 
 * [Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
 
@@ -48,7 +52,7 @@ ________________________________________________________________________
 
 * [Первая работа 2002год : cайт НКО Троицкий храм, разработка макета, наполнение, поддержка]()
 
-### Примеры заданий, выполненных в процессе обучения в Нетологии (2020-2022 гг.)
+### *Примеры заданий, выполненных в процессе обучения в Нетологии (2020-2022 гг.)*
 
 ###  LARAVEL
 
@@ -59,17 +63,18 @@ ________________________________________________________________________
 
 ### REACT
 
-#### Меню
-#### https://github.com/Svetlana-Kutyeva1974/ra9.1.git
+#### [Меню](https://github.com/Svetlana-Kutyeva1974/ra9.1.git)
 
 ### JAVASCRIPT
+
 #### [Браузерная игра на реакцию. Трелло](https://github.com/Svetlana-Kutyeva1974/ahj-dnd-trello.git)
 
 ### HTML, CSS
-#### Примеры простой верстки
+
+#### Примеры верстки
 * [Блог](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
 * [Блог. Адаптивная и мобильная верстка]()
 
-### [Мои сертификаты](https://github.com/Svetlana-Kutyeva1974/certifikates)
+### *[Мои сертификаты](https://github.com/Svetlana-Kutyeva1974/certifikates)*
 
-### [Мои дипломы](https://github.com/Svetlana-Kutyeva1974/diploms)
+### *[Мои дипломы](https://github.com/Svetlana-Kutyeva1974/diploms)*
