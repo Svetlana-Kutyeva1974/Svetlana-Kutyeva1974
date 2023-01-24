@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 #### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
-__
+________________________________________________________________________
 
-### **Я закончила курс веб-разработки от  университета Нетология (2023 год)**
-### **Стек:** HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.
-### **Пользователь:** 1С, Adobe: AdobeFotoshop,CorelDraw, AdobePageMaker
-### **Базовое образование:** МАИ 1997г.(инженер-математик), МГУП им.И. Федорова 2015г.(журналист), профессиональная переподготовка, РУНО (бухгалтерия + 1С), 2017г.
-### **Опыт в разработке:** с 2002 г. на HTML, CSS поддержка и контентное наполнение сайта, 2020-2023гг. на HTML, CSS, JS, REACT, PHP, LARAVEL, SQL выполнение заданий и дипломных проектов в Нетологии. 
-### Дополнительные навыки: полиграфическая + журналистская деятельность, ежемесячная верстка и печать бумажного многостраничного издания НКО Троицкий храм в AdobePageMaker с 2002 г. по настоящее время.
+### Я закончила курс веб-разработки от  университета Нетология (2023 год)
+### *Стек:* HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.
+### *Пользователь:* 1С, Adobe: AdobeFotoshop,CorelDraw, AdobePageMaker
+### *Базовое образование:* МАИ 1997г.(инженер-математик), МГУП им.И. Федорова 2015г.(журналист), профессиональная переподготовка, РУНО (бухгалтерия + 1С), 2017г.
+### *Опыт в разработке:* с 2002 г. на HTML, CSS поддержка и контентное наполнение сайта, 2020-2023гг. на HTML, CSS, JS, REACT, PHP, LARAVEL, SQL выполнение заданий и дипломных проектов в Нетологии. 
+### *Дополнительные навыки:* полиграфическая + журналистская деятельность, ежемесячная верстка и печать бумажного многостраничного издания НКО Троицкий храм в AdobePageMaker с 2002 г. по настоящее время.
 
 ### Мои проекты
 
@@ -42,21 +42,20 @@ __
 
 * [Дипломное задание по курсу адаптивная и мобильная верстка](https://svetlana-kutyeva1974.github.io/mq-31-diplom/)
 
-#### *[Дипломное задание по курсу HTML верстка. Верстка по макету AdobeFotoshop](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
+* [Дипломное задание по курсу HTML верстка. Верстка по макету AdobeFotoshop](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
 
-#### *[Сайт НКО Троицкий храм контентное наполнение, доработка главной страницы](http://selci-orthodoxy.ru/)
+* [Сайт НКО Троицкий храм контентное наполнение, доработка главной страницы](http://selci-orthodoxy.ru/)
 
-#### Первая работа 2002год : cайт НКО Троицкий храм, разработка макета, наполнение, поддержка.
-#### []()
+* [Первая работа 2002год : cайт НКО Троицкий храм, разработка макета, наполнение, поддержка]()
 
 ### Примеры заданий, выполненных в процессе обучения в Нетологии (2020-2022 гг.)
 
 ###  LARAVEL
 
 #### Создание и защита роутов, middleware, валидация форм, создание ресурсного контроллера
-#### [middleware](https://github.com/Svetlana-Kutyeva1974/home3_laravel_project.git)
-#### [роуты](https://github.com/Svetlana-Kutyeva1974/home2_laravel_project.git)
-#### [middleware, api, request](https://github.com/Svetlana-Kutyeva1974/home4_laravel_project.git)
+* [middleware](https://github.com/Svetlana-Kutyeva1974/home3_laravel_project.git)
+* [роуты](https://github.com/Svetlana-Kutyeva1974/home2_laravel_project.git)
+* [middleware, api, request](https://github.com/Svetlana-Kutyeva1974/home4_laravel_project.git)
 
 ### REACT
 
@@ -68,8 +67,8 @@ __
 
 ### HTML, CSS
 #### Примеры простой верстки
-#### [Блог](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
-### [Блог. Адаптивная и мобильная верстка]()
+* [Блог](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
+* [Блог. Адаптивная и мобильная верстка]()
 
 ### [Мои сертификаты](https://github.com/Svetlana-Kutyeva1974/certifikates)
 
