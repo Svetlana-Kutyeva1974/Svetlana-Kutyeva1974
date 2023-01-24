@@ -75,6 +75,6 @@ ________________________________________________________________________
 * [Блог](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
 * [Блог. Адаптивная и мобильная верстка]()
 
-### *[Полученные сертификаты](https://github.com/Svetlana-Kutyeva1974/certifikates)*
+### *[Полученные сертификаты](https://github.com/Svetlana-Kutyeva1974/certifiсates)*
 
 ### *[Дипломы об образовании](https://github.com/Svetlana-Kutyeva1974/diploms)*
