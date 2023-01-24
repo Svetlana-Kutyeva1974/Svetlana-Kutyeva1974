@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 ### Мои проекты
 
-#### *[Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
+#### [*Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)
 
 #### *[Дипломное задание по курсу javascript: Двумерная Retro Игра  в стиле фэнтези](https://github.com/Svetlana-Kutyeva1974/0-js-diplom.git)
 
 #### *[Дипломное задание по курсу базовый javascript в браузере: разработка приложения для управления финансами. Приложение для управления финансами](https://github.com/Svetlana-Kutyeva1974/bhj-diploma.git)
 
-#### *[Дипломное задание по курсу Основы javascript: доработка сайта-биржи криптовалют,страниц регистрации и личного кабинета пользователя] (https://github.com/Svetlana-Kutyeva1974/bjs-diplom.git)
+#### *[Дипломное задание по курсу Основы javascript: доработка сайта-биржи криптовалют,страниц регистрации и личного кабинета пользователя](https://github.com/Svetlana-Kutyeva1974/bjs-diplom.git)
 
 #### *[Дипломное задание по курсу Основы программирования: Крестики-нолики](https://replit.com/@kutyovas/Diplom-na-provierku-1var)
 
@@ -64,16 +64,13 @@ Here are some ideas to get you started:
 #### https://github.com/Svetlana-Kutyeva1974/ra9.1.git
 
 ### JAVASCRIPT
-#### Браузерная игра на реакцию
-#### [Трелло] (https://github.com/Svetlana-Kutyeva1974/ahj-dnd-trello.git)
+#### [Браузерная игра на реакцию. Трелло](https://github.com/Svetlana-Kutyeva1974/ahj-dnd-trello.git)
 
 ### HTML, CSS
 #### Примеры простой верстки
-#### [Блог] (https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
-### [Блог. Адаптивная и мобильная верстка] ()
+#### [Блог](https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
+### [Блог. Адаптивная и мобильная верстка]()
 
-### Мои сертификаты
-####  https://github.com/Svetlana-Kutyeva1974/certifikates
+### [Мои сертификаты](https://github.com/Svetlana-Kutyeva1974/certifikates)
 
-### Мои дипломы
-####  https://github.com/Svetlana-Kutyeva1974/diploms
+### [Мои дипломы](https://github.com/Svetlana-Kutyeva1974/diploms)
