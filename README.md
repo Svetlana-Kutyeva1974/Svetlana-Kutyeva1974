@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 #### [Троицкий храм](http://selci-orthodoxy.ru/)
 
 #### Первая работа 2002год : cайт НКО Троицкий храм, разработка макета, наполнение, поддержка.
-#### [Сельцы]()
+#### []()
 
 ### Примеры заданий, выполненных в процессе обучения в Нетологии (2020-2022 гг.)
 
@@ -73,12 +73,12 @@ Here are some ideas to get you started:
 
 ### JAVASCRIPT
 #### Браузерная игра на реакцию
-#### 
+#### [Трелло] (https://github.com/Svetlana-Kutyeva1974/ahj-dnd-trello.git)
 
 ### HTML, CSS
 #### Примеры простой верстки
-#### https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm
-### Адаптивная и мобильная верстка
+#### [Блог] (https://codepen.io/Svetlana-Kutyeva/pen/NWbRJzm)
+### [Блог. Адаптивная и мобильная верстка] ()
 
 ### Мои сертификаты
 ####  https://github.com/Svetlana-Kutyeva1974/certifikates
