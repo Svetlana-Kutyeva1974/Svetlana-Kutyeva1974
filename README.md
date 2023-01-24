@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### Diploma assignment in the profession of "Web developer": Creation of an "information system for the administration of halls, sessions and advance booking of tickets".
 #### https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git
 
-### ----------------------------------------------------------------
+### _
 
 ### Я закончила курс веб-разработки от  университета Нетология (2023 год)
 ### Стек: HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Мои проекты
 
-#### *__[*Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)__
+#### *_[*Дипломное задание по профессии "Веб-разработчик": Создание «информационной системы для администрирования залов, сеансов и предварительного бронирования билетов»](https://github.com/Svetlana-Kutyeva1974/fs-diplom-react.git)_
 
 #### *_[Дипломное задание по курсу javascript: Двумерная Retro Игра  в стиле фэнтези](https://github.com/Svetlana-Kutyeva1974/0-js-diplom.git)_
 
