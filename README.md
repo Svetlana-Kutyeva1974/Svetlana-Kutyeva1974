@@ -23,7 +23,7 @@ ________________________________________________________________________
 
 ### *Закончила курс веб-разработки от  университета Нетология (2023 год)*
 
-### *Стек:* `HTML, CSS, JS, REACT, PHP, LARAVEL, SQL.`
+### *Стек:* `HTML5, CSS3, JavaScript, JQuery, Node.js, REACT, PHP, LARAVEL, SQL(SQLite) .`
 
 ### *Пользователь:* `1С, Adobe: AdobeFotoshop,CorelDraw, AdobePageMaker`
 
